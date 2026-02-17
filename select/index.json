@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "daybreak",
+  "base_artist": "シンガーズハイ",
+  "createdAt": "2026-02-17T11:28:06.887379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daybreak - Single Version",
+      "artist": "Harry Nilsson",
+      "has_synced": true,
+      "path": "select/01_Daybreak_-_Single_Version_Harry_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daybreak (single version)",
+      "artist": "Harry Nilsson",
+      "has_synced": true,
+      "path": "select/02_Daybreak_(single_version)_Harry_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "DevilDriver",
+      "has_synced": true,
+      "path": "select/03_Daybreak_DevilDriver.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "The Stone Roses",
+      "has_synced": true,
+      "path": "select/04_Daybreak_The_Stone_Roses.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "Air Supply",
+      "has_synced": true,
+      "path": "select/05_Daybreak_Air_Supply.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daybreak\\'s Bell",
+      "artist": "L\\'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/06_Daybreak_'s_Bell_L_'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/07_Daybreak_Barry_Manilow.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "Architects",
+      "has_synced": true,
+      "path": "select/08_Daybreak_Architects.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Short Of Daybreak",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/09_Short_Of_Daybreak_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daybreak (\"The Man\" Performed at Concertgebouw, Amsterdam, 17 September 1969) [Live]",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/10_Daybreak_(_The_Man__Performed_at_Concertgebouw,_Amsterdam,_17_September_1969)_[L_Pink_Floyd.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daybreak (\"The Man\" Performed at Concertgebouw, Amsterdam, 17 September 1969)",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/11_Daybreak_(_The_Man__Performed_at_Concertgebouw,_Amsterdam,_17_September_1969)_Pink_Floyd.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "Tony Bennett",
+      "has_synced": false,
+      "path": "select/12_Daybreak_Tony_Bennett.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Daybreak (The Man Performed at Concertgebouw, Amsterdam, 17 September 1969) (Live)",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/13_Daybreak_(The_Man_Performed_at_Concertgebouw,_Amsterdam,_17_September_1969)_(Liv_Pink_Floyd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "daybreak",
+      "artist": "シンガーズハイ",
+      "has_synced": false,
+      "path": "select/pl_01_daybreak_シンガーズハイ.txt"
+    }
+  ]
+}
